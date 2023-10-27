@@ -30,7 +30,10 @@ I envision a future where the vast potential of computing power bridges gaps acr
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
   ![CUDA](https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&logoColor=white&style=flat-square)
 
-### 🤝 Let's Connect!
-Eager to collaborate or discuss shared passions? I'm always keen to connect with fellow tech enthusiasts!
+### 📊 Stats
 
-📫 **Email**: [qwes8873@gmail.com](mailto:qwes8873@gmail.com)
+![Leetcode Stats](https://leetcard.jacoblin.cool/qwes8873?theme=light&height=195)
+![Jiwon Park's github stats](https://github-readme-stats.vercel.app/api?username=qwes98)
+
+
+

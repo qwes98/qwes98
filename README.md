@@ -18,13 +18,15 @@ I envision a future where the vast potential of computing power bridges gaps acr
 - 🧠 **Data & AI**: My forays into data science and AI underscore my commitment to harness these fields in transforming the future of problem-solving.
 
   ![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
-  ![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white&style=flat-square)
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
+  ![Jiwon Park](https://road-to-kaggle-grandmaster.vercel.app/api/simple/qwes8873)
+
 
 ### 🌌 Exploratory Interests
 - I'm intrigued by **Human-Computer Interaction (HCI)** and the potential transformations it promises for future interactions.
 - **Spatial Computing** sparks my interest. I see it as a revolutionary tool, granting robots the capability to decipher space, which in turn can provide humans with transformative insights and reshape our interaction with the physical realm.
 
+  ![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white&style=flat-square)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
   ![CUDA](https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&logoColor=white&style=flat-square)
 

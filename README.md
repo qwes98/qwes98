@@ -8,7 +8,7 @@ I envision a future where the vast potential of computing power bridges gaps acr
 - 🛠 Concurrently, I'm channeling my efforts into a 3D Vision toy project, ensuring hands-on experience and familiarity with its intricacies.
 
 ### 🌟 Core Expertise
-- 🌐 **Problem Solving through Computation**: With 3 years as an integral part of a startup named HERD, and diverse projects tackled through freelancing, I've honed my skills in building solutions that effectively address real-world challenges.
+- 🖥 **Full Stack Web Dev**: With 3 years as an integral part of a startup named HERD, and diverse projects tackled through freelancing, I've solidified my skills in end-to-end development, crafting solutions that effectively address real-world challenges.
 - 🧠 **Data & AI**: My forays into data science and AI underscore my commitment to harness these fields in transforming the future of problem-solving.
 
 ### 🌌 Exploratory Interests

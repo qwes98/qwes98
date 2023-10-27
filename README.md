@@ -9,11 +9,24 @@ I envision a future where the vast potential of computing power bridges gaps acr
 
 ### 🌟 Core Expertise
 - 🖥 **Full Stack Web Dev**: With 3 years as an integral part of a startup named HERD, and diverse projects tackled through freelancing, I've solidified my skills in end-to-end development, crafting solutions that effectively address real-world challenges.
+  
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+  ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=green&style=flat-square)
+  ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)
+
+### 🌱 Emerging Expertise
 - 🧠 **Data & AI**: My forays into data science and AI underscore my commitment to harness these fields in transforming the future of problem-solving.
+
+  ![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
+  ![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white&style=flat-square)
+  ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
 
 ### 🌌 Exploratory Interests
 - I'm intrigued by **Human-Computer Interaction (HCI)** and the potential transformations it promises for future interactions.
 - **Spatial Computing** sparks my interest. I see it as a revolutionary tool, granting robots the capability to decipher space, which in turn can provide humans with transformative insights and reshape our interaction with the physical realm.
+
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
+  ![CUDA](https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&logoColor=white&style=flat-square)
 
 ### 🤝 Let's Connect!
 Eager to collaborate or discuss shared passions? I'm always keen to connect with fellow tech enthusiasts!

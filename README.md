@@ -32,8 +32,7 @@ I envision a future where the vast potential of computing power bridges gaps acr
 
 ### 📊 Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/qwes8873?theme=light&height=195)
-![Jiwon Park's github stats](https://github-readme-stats.vercel.app/api?username=qwes98)
+![Leetcode Stats](https://leetcard.jacoblin.cool/qwes8873?theme=unicorn&ext=activity)
 
 
 

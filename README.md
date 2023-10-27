@@ -1,10 +1,10 @@
 ## Hello, World! 👋
 
 ### 👨‍💻 About Me
-I envision a future where the vast potential of computing power bridges gaps across numerous challenges. While I aim to harness this power to tackle diverse problems as a generalist, I also have a deep-seated passion for Artificial Intelligence and Full Stack Development.
+I envision a future where the vast potential of computing power bridges gaps across numerous challenges. While I aim to harness this power to tackle diverse problems as a generalist, I also have a deep-seated passion for **Artificial Intelligence** and **Full Stack Development**.
 
 ### 🚀 Current Endeavors
-- 📘 Presently, I'm diving into AI, particularly 3D Vision. My goal is to master its foundational concepts and put them into practice.
+- 📘 Presently, I'm diving into AI, particularly **3D Vision**. My goal is to master its foundational concepts and put them into practice.
 - 🛠 Concurrently, I'm channeling my efforts into a 3D Vision toy project, ensuring hands-on experience and familiarity with its intricacies.
 
 ### 🌟 Core Expertise

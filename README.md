@@ -1,4 +1,4 @@
-## Hello, World! 👋
+## Hello, Makers! 👋
 
 ### 👨‍💻 About Me
 I envision a future where the vast potential of computing power bridges gaps across numerous challenges. While I aim to harness this power to tackle diverse problems as a generalist, I also have a deep-seated passion for **Artificial Intelligence** and **Full Stack Development**.

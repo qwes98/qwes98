@@ -32,7 +32,8 @@ I envision a future where the vast potential of computing power bridges gaps acr
 
 ### 📊 Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/qwes8873?theme=unicorn&ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/qwes8873?theme=unicorn)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qwes8873)](https://solved.ac/qwes8873/)
 
 
 

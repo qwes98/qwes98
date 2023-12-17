@@ -4,8 +4,8 @@
 I envision a future where the vast potential of computing power bridges gaps across numerous challenges. While I aim to harness this power to tackle diverse problems as a generalist, I also have a deep-seated passion for **Artificial Intelligence** and **Full Stack Development**.
 
 ### 🚀 Current Endeavors
-- 📘 Presently, I'm diving into AI, particularly **3D Vision**. My goal is to master its foundational concepts and put them into practice.
-- 🛠 Concurrently, I'm channeling my efforts into a 3D Vision toy project, ensuring hands-on experience and familiarity with its intricacies.
+- 📘 Presently, I'm diving into AI, particularly **SLAM (Simultaneous Localization and Mapping)**. My goal is to master its foundational concepts and put them into practice.
+- 🛠 Concurrently, I'm channeling my efforts into a SLAM toy project, ensuring hands-on experience and familiarity with its intricacies.
 
 ### 🌟 Core Expertise
 - 🖥 **Full Stack Web Dev**: With 3 years as an integral part of a startup named HERD, and diverse projects tackled through freelancing, I've solidified my skills in end-to-end development, crafting solutions that effectively address real-world challenges.

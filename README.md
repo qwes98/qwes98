@@ -6,7 +6,7 @@ I'm passionate about using technology to empower humans, not replace them.
 That's why my current research interest lies in **Human-Centered AI (HCAI)** and **Human-AI Interaction (HAI)**.
 
 ### 🚀 Current Endeavors
-- 📘 Presently, I'm actively learning **Human-Computer Interaction (HCI)** and **Artificial Intelligence (AI)**.
+- 📘 Presently, I'm actively learning **Human-Computer Interaction (HCI)** and **Multi Modal AI**.
 - 🛠 Concurrently, I'm trying to do some projects for AI to augment human capabilities, particularly in the fields of **education**, **collaboration**, and **decision-making**.
 
 ### 🌟 Core Expertise
